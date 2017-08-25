@@ -1,0 +1,27 @@
+{
+  "name": "browser-game-front-server",
+  "version": "0.0.1",
+  "description": "Browser game front",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "NodeJS",
+    "Socket IO"
+  ],
+  "author": "Pierre Larboulette",
+  "git": "",
+  "license": "MIT",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "latest",
+    "express": "^4.13.4",
+    "express-json": "^1.0.0",
+    "express-session": "^1.13.0",
+    "serve-favicon": "^2.3.0",
+    "socket.io": "^2.0.3",
+    "uuid": "^2.0.2"
+  }
+}
